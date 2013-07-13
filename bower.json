@@ -1,0 +1,9 @@
+{
+  "name": "furattokit",
+  "version": "0.0.1",
+  "dependencies": {
+  	 "Furatto": "https://github.com/IcaliaLabs/furatto.git",
+    "jquery": "latest",
+    "html5shiv": "latest"
+  }
+}
